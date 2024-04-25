@@ -21,7 +21,7 @@ Before running the Weather App, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/weather-app.git
+   git clone https://github.com/ThiharaGamalath/Weather-App-in-Python-Weather-API.git
    
 2. Navigate to the project directory:
 
